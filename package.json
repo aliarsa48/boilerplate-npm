@@ -1,8 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Ali Arsa",
+	"author": "Jane Doe",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
